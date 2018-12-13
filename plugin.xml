@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="cordova-plugin-cordovapluginaggregator" version="0.0.1">
+
+  <name>Cordova Plugin Aggregator</name>
+
+  <description>
+    Test plugin to test how to reference multiple plugins in one plugin.
+  </description>
+
+  <author>João Figueiredo</author>
+
+  <license>Unlicense</license>
+
+  <keywordsCordovaPluginAggregator,Cordova Plugin Aggregator</keywords>
+
+  <repo>https://github.com/JFIOutsystems/CordovaPluginAggregator.git</repo>
+
+  <issue>https://github.com/JFIOutsystems/CordovaPluginAggregator/issues</issue>
+  
+<engines>
+      <engine name="cordova" version=">=3.1.0" /><!-- Needs cordova/urlutil -->
+    </engines>
+
+  
+  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" version=""3.0.0">
+  
+  <dependency id="cordova-plugin-app-launcher" url="https://github.com/EduardoJauch/cordova-plugin-app-launcher" version=""0.4.0">
+  
+  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme" version=""4.3.0">
+
+
+
+</plugin>
