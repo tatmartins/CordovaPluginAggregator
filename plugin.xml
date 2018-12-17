@@ -20,16 +20,14 @@
   <issue>https://github.com/JFIOutsystems/CordovaPluginAggregator/issues</issue>
   
 <engines>
-      <engine name="cordova" version=">=3.1.0" /><!-- Needs cordova/urlutil -->
+      <engine name="cordova" version=">=3.1.0" />
     </engines>
 
   
-  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="master" version="3.0.0">
+  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="master" version="3.0.0" />
   
-  <dependency id="cordova-plugin-app-launcher" url="https://github.com/EduardoJauch/cordova-plugin-app-launcher"  commit="master" version="0.4.0">
+  <dependency id="cordova-plugin-app-launcher" url="https://github.com/EduardoJauch/cordova-plugin-app-launcher"  commit="master" version="0.4.0" />
   
-  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme"  commit="master" version="4.3.0">
-
-
+  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme"  commit="master" version="4.3.0" />
 
 </plugin>
