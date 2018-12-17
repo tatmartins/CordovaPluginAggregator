@@ -24,11 +24,11 @@
     </engines>
 
   
-  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" version=""3.0.0">
+  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="master" version="3.0.0">
   
-  <dependency id="cordova-plugin-app-launcher" url="https://github.com/EduardoJauch/cordova-plugin-app-launcher" version=""0.4.0">
+  <dependency id="cordova-plugin-app-launcher" url="https://github.com/EduardoJauch/cordova-plugin-app-launcher"  commit="master" version="0.4.0">
   
-  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme" version=""4.3.0">
+  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme"  commit="master" version="4.3.0">
 
 
 
