@@ -34,7 +34,6 @@
   
   <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystemsExperts/outsystems-phonegap-plugin-push"  commit="master" version="2.2.0-os" />
   
-  <!-- <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme"  commit="master" version="4.3.0">
-         <param name="URL_SCHEME" value="os03" />
-   </dependency>      -->
+  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/JFIOutsystems/Custom-URL-scheme"  commit="master" version="4.3.0"/>
+  
 </plugin>
