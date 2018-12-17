@@ -22,7 +22,9 @@
   <preference name="URLSCHEME" />
   
 <engines>
-      <engine name="cordova" version=">=3.1.0" />
+        <engine name="cordova" version=">=6.5.0" />
+        <engine name="cordova-android" version=">=6.1.2" />
+        <engine name="cordova-ios" version=">=4.3.1" />
     </engines>
 
   
@@ -30,7 +32,9 @@
   
   <dependency id="cordova-plugin-app-launcher" url="https://github.com/EduardoJauch/cordova-plugin-app-launcher"  commit="master" version="0.4.0" />
   
-   <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme"  commit="master" version="4.3.0">
+  <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystemsExperts/outsystems-phonegap-plugin-push"  commit="master" version="2.2.0-os" />
+  
+  <!-- <dependency id="cordova-plugin-customurlscheme" url="https://github.com/EddyVerbruggen/Custom-URL-scheme"  commit="master" version="4.3.0">
          <param name="URL_SCHEME" value="os03" />
-   </dependency>      
+   </dependency>      -->
 </plugin>
