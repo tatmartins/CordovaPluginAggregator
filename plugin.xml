@@ -18,14 +18,79 @@
   <repo>https://github.com/JFIOutsystems/CordovaPluginAggregator.git</repo>
 
   <issue>https://github.com/JFIOutsystems/CordovaPluginAggregator/issues</issue>
-        
-  <preference name="URLSCHEME" />
   
 <engines>
         <engine name="cordova" version=">=6.5.0" />
         <engine name="cordova-android" version=">=6.1.2" />
         <engine name="cordova-ios" version=">=4.3.1" />
     </engines>
+        
+ <!-- ios -->
+    <platform name="ios">
+        
+        <!-- iOS9 whitelisting -->
+        <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
+            <array>
+                <string>slack</string>
+                <string>os01</string>
+                <string>os02</string>
+                <string>os03</string>
+                <string>os04</string>				
+                <string>os05</string>
+                <string>os06</string>
+                <string>os07</string>
+                <string>os08</string>
+                <string>os09</string>
+				
+                <string>os10</string>
+                <string>os11</string>
+                <string>os12</string>
+                <string>os13</string>
+                <string>os14</string>				
+                <string>os15</string>
+                <string>os16</string>
+                <string>os17</string>
+                <string>os18</string>
+                <string>os19</string>
+				
+		<string>os20</string>
+                <string>os21</string>
+                <string>os22</string>
+                <string>os23</string>
+                <string>os24</string>				
+                <string>os25</string>
+                <string>os26</string>
+                <string>os27</string>
+                <string>os28</string>
+                <string>os29</string>
+				
+                <string>os30</string>
+                <string>os31</string>
+                <string>os32</string>
+                <string>os33</string>
+                <string>os34</string>				
+                <string>os35</string>
+                <string>os36</string>
+                <string>os37</string>
+                <string>os38</string>
+                <string>os39</string>
+								
+                <string>os40</string>
+                <string>os41</string>
+                <string>os42</string>
+                <string>os43</string>
+                <string>os44</string>				
+                <string>os45</string>
+                <string>os46</string>
+                <string>os47</string>
+                <string>os48</string>
+                <string>os49</string>
+            </array>
+        </config-file>
+        
+        
+        
+    </platform>
 
   
   <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="master" version="3.0.0" />
