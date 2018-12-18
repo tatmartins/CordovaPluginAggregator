@@ -2,6 +2,13 @@
   "name": "cordova-plugin-cordovapluginaggregator",
   "description": "Test plugin to test how to reference multiple plugins in one plugin.",
   "version": "0.0.1",
+   "cordova": {
+    "id": "cordova-plugin-cordovapluginaggregator",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
   "keywords": [
     "Cordova Plugin Aggregator"
   ],
@@ -15,6 +22,20 @@
     {
       "type": "git",
       "url": "https://github.com/JFIOutsystems/CordovaPluginAggregator.git"
+    }
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.5.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=6.1.2"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.3.1"
     }
   ],
   "licenses": [
