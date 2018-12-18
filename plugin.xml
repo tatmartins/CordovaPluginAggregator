@@ -99,6 +99,9 @@
   
   <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystemsExperts/outsystems-phonegap-plugin-push"  commit="master" version="2.2.0-os" />
   
-  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/JFIOutsystems/Custom-URL-scheme"  commit="FileChanges" version="4.3.0"/>
-  
+  <dependency id="cordova-plugin-customurlscheme" url="https://github.com/JFIOutsystems/Custom-URL-scheme"  commit="master" version="4.3.0">
+  <param name="URL_SCHEME" value="mycoolapp" />
+  </dependency>
+	
+	
 </plugin>
