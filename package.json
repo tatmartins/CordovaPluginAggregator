@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-cordovapluginaggregator",
+  "description": "Test plugin to test how to reference multiple plugins in one plugin.",
+  "version": "0.0.1",
+  "keywords": [
+    "Cordova Plugin Aggregator"
+  ],
+  "dependencies": {
+    "https://github.com/OutSystems/cordova-plugin-inappbrowser/tree/3ab9f28635a03753502fca19dbe8168e91a82921#1.7.0-os": "3.0.0",
+    "https://github.com/EduardoJauch/cordova-plugin-app-launcher/tree/f3c4509441dc88805aa047bd373970f9a915ed86": "0.4.0",
+    "https://github.com/OutSystemsExperts/outsystems-phonegap-plugin-push/tree/8e31e794fab572595c23ee143fb3c9157d4fbb6e": "2.2.0-os",
+    "https://github.com/JFIOutsystems/Custom-URL-scheme/tree/9f1cc218d0a535269082d249d1a8406da0ff13c9": "4.3.0"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/JFIOutsystems/CordovaPluginAggregator.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "The Unlicense",
+      "url": "https://github.com/JFIOutsystems/CordovaPluginAggregator/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/JFIOutsystems/CordovaPluginAggregator"
+}
