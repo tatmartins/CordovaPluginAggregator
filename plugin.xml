@@ -87,9 +87,6 @@
                 <string>os49</string>
             </array>
         </config-file>
-        
-        
-        
     </platform>
 
   
@@ -98,6 +95,7 @@
   <dependency id="cordova-plugin-app-launcher" url="https://github.com/EduardoJauch/cordova-plugin-app-launcher"  commit="master" version="0.4.0" />
   
   <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystemsExperts/outsystems-phonegap-plugin-push"  commit="master" version="2.2.0-os" />
-	
+
+  <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor" commit="master" version="1.0" />
 	
 </plugin>
