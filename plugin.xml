@@ -90,12 +90,12 @@
     </platform>
 
   
-  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser/tree/653561274630c44242a6190f89c287c7e658cf68" commit="master" version="3.0.0" />
+  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="3.0.0-os" version="3.0.0-os" />
   
-  <dependency id="cordova-plugin-app-launcher" url="https://github.com/OutSystems/cordova-plugin-app-launcher/tree/e62e8ea8c7210e6377d65160be959bdf0928957a"  commit="master" version="0.4.0" />
+  <dependency id="cordova-plugin-app-launcher" url="https://github.com/OutSystems/cordova-plugin-app-launcher"  commit="v0.4.2" version="0.4.0" />
   
-  <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystemsExperts/outsystems-phonegap-plugin-push"  commit="master" version="2.2.0-os" />
+  <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystemsExperts/outsystems-phonegap-plugin-push"  commit="2.2.0-os" version="2.2.0-os" />
 
-  <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor/tree/c85f9ac8d47e0a34089202ab4e5d1acbd77ec2e0" commit="master" version="1.0" />
+  <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor" commit="1.0" version="1.0.0" />
 	
 </plugin>
