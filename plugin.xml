@@ -30,13 +30,7 @@
  <!-- ios -->
     <platform name="ios">
 	    
-	<config-file target="*-Info.plist" parent="Entitlements">
-            <key>keychain-access-groups</key> 
-		<array>
-			<string>com.mysharedkeychain</string>
-		</array> 
-        </config-file>
-        
+	        
         <!-- iOS9 whitelisting -->
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
