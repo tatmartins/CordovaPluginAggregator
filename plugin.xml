@@ -35,59 +35,59 @@
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
                 <string>slack</string>
-                <string>os01</string>
-                <string>os02</string>
+                <string>com.outsystems.os01</string>
+                <string>com.outsystems.os02</string>
                 <string>com.outsystems.os03</string>
-                <string>os04</string>				
-                <string>os05</string>
-                <string>os06</string>
-                <string>os07</string>
-                <string>os08</string>
-                <string>os09</string>
+                <string>com.outsystems.os04</string>				
+                <string>com.outsystems.os05</string>
+                <string>com.outsystems.os06</string>
+                <string>com.outsystems.os07</string>
+                <string>com.outsystems.os08</string>
+                <string>com.outsystems.os09</string>
 				
-                <string>os10</string>
-                <string>os11</string>
-                <string>os12</string>
-                <string>os13</string>
-                <string>os14</string>				
-                <string>os15</string>
-                <string>os16</string>
-                <string>os17</string>
-                <string>os18</string>
-                <string>os19</string>
+                <string>com.outsystems.os10</string>
+                <string>com.outsystems.os11</string>
+                <string>com.outsystems.os12</string>
+                <string>com.outsystems.os13</string>
+                <string>com.outsystems.os14</string>				
+                <string>com.outsystems.os15</string>
+                <string>com.outsystems.os16</string>
+                <string>com.outsystems.os17</string>
+                <string>com.outsystems.os18</string>
+                <string>com.outsystems.os19</string>
 				
-		<string>os20</string>
-                <string>os21</string>
-                <string>os22</string>
-                <string>os23</string>
-                <string>os24</string>				
-                <string>os25</string>
-                <string>os26</string>
-                <string>os27</string>
-                <string>os28</string>
-                <string>os29</string>
+				<string>com.outsystems.os20</string>
+                <string>com.outsystems.os21</string>
+                <string>com.outsystems.os22</string>
+                <string>com.outsystems.os23</string>
+                <string>com.outsystems.os24</string>				
+                <string>com.outsystems.os25</string>
+                <string>com.outsystems.os26</string>
+                <string>com.outsystems.os27</string>
+                <string>com.outsystems.os28</string>
+                <string>com.outsystems.os29</string>
 				
-                <string>os30</string>
-                <string>os31</string>
-                <string>os32</string>
-                <string>os33</string>
-                <string>os34</string>				
-                <string>os35</string>
-                <string>os36</string>
-                <string>os37</string>
-                <string>os38</string>
-                <string>os39</string>
+                <string>com.outsystems.os30</string>
+                <string>com.outsystems.os31</string>
+                <string>com.outsystems.os32</string>
+                <string>com.outsystems.os33</string>
+                <string>com.outsystems.os34</string>				
+                <string>com.outsystems.os35</string>
+                <string>com.outsystems.os36</string>
+                <string>com.outsystems.os37</string>
+                <string>com.outsystems.os38</string>
+                <string>com.outsystems.os39</string>
 								
-                <string>os40</string>
-                <string>os41</string>
-                <string>os42</string>
-                <string>os43</string>
-                <string>os44</string>				
-                <string>os45</string>
-                <string>os46</string>
-                <string>os47</string>
-                <string>os48</string>
-                <string>os49</string>
+                <string>com.outsystems.os40</string>
+                <string>com.outsystems.os41</string>
+                <string>com.outsystems.os42</string>
+                <string>com.outsystems.os43</string>
+                <string>com.outsystems.os44</string>				
+                <string>com.outsystems.os45</string>
+                <string>com.outsystems.os46</string>
+                <string>com.outsystems.os47</string>
+                <string>com.outsystems.os48</string>
+                <string>com.outsystems.os49</string>
             </array>
         </config-file>
     </platform>
