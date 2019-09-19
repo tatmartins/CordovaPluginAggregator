@@ -97,7 +97,7 @@
   
   <dependency id="cordova-plugin-app-launcher" url="https://github.com/OutSystems/cordova-plugin-app-launcher"  commit="v0.4.2" version="0.4.0" />
   
-  <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystems/outsystems-phonegap-plugin-push"  commit="2.2.0-os" version="2.2.0-os" />
+   <!--   <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystems/outsystems-phonegap-plugin-push"  commit="2.2.0-os" version="2.2.0-os" /> -->
 
   <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor" commit="1.0" version="1.0.0" />
 
