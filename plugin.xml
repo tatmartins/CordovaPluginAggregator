@@ -93,7 +93,7 @@
     </platform>
 
      
-  <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="3.1.0-OS3" version="3.1.0-OS3" />
+  <!-- <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="3.1.0-OS3" version="3.1.0-OS3" /> -->
   
 <!--  <dependency id="cordova-plugin-app-launcher" url="https://github.com/OutSystems/cordova-plugin-app-launcher"  commit="v0.4.2" version="0.4.0" /> -->
 
