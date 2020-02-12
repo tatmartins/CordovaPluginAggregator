@@ -19,13 +19,7 @@
 
   <issue>https://github.com/JFIOutsystems/CordovaPluginAggregator/issues</issue>
   
-<engines>
-        <engine name="cordova" version=">=6.5.0" />
-        <engine name="cordova-android" version=">=6.1.2" />
-        <engine name="cordova-ios" version=">=4.3.1" />
-        <engine name="apple-ios" version=">=10.0.0" />
-   
-    </engines>
+
         
  <!-- ios -->
     <platform name="ios">
@@ -95,14 +89,14 @@
      
   <dependency id="cordova-plugin-inappbrowser" url="https://github.com/OutSystems/cordova-plugin-inappbrowser" commit="3.1.0-OS3" version="3.1.0-OS3" /> 
   
-  <dependency id="cordova-plugin-app-launcher" url="https://github.com/OutSystems/cordova-plugin-app-launcher"  commit="v0.4.2" version="0.4.0" />
+<!--  <dependency id="cordova-plugin-app-launcher" url="https://github.com/OutSystems/cordova-plugin-app-launcher"  commit="v0.4.2" version="0.4.0" />-->
 
 <!--   <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystems/outsystems-phonegap-plugin-push"  commit="2.2.0-os" version="2.2.0-os" /> -->
   
 <!--  <dependency id="phonegap-plugin-push" url="https://github.com/JFIOutsystems/outsystems-phonegap-plugin-push"/> -->
   
-  <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor" commit="1.0" version="1.0.0" />
+<!--  <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor" commit="1.0" version="1.0.0" />-->
 
-  <dependency id="cordova-plugin-badge" url="https://github.com/OutSystems/cordova-plugin-badge" commit="0.8.8" version="0.8.8" /> 
+ <!-- <dependency id="cordova-plugin-badge" url="https://github.com/OutSystems/cordova-plugin-badge" commit="0.8.8" version="0.8.8" /> -->
 	
 </plugin>
