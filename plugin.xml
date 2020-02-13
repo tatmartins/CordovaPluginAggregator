@@ -93,7 +93,7 @@
 
 <!--   <dependency id="outsystems-phonegap-plugin-push" url="https://github.com/OutSystems/outsystems-phonegap-plugin-push"  commit="2.2.0-os" version="2.2.0-os" /> -->
   
-  <dependency id="phonegap-plugin-push" url="https://github.com/JFIOutsystems/outsystems-phonegap-plugin-push"/>
+ <!-- <dependency id="phonegap-plugin-push" url="https://github.com/JFIOutsystems/outsystems-phonegap-plugin-push"/> -->
   
   <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor" commit="1.0" version="1.0.0" />
 
