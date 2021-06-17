@@ -16,7 +16,7 @@
     "cordova-plugin-inappbrowser": "OutSystems/cordova-plugin-inappbrowser#3.0.0-os",
     "cordova-plugin-app-launcher": "OutSystems/cordova-plugin-app-launcher",
     "outsystems-phonegap-plugin-push": "OutSystems/outsystems-phonegap-plugin-push#2.2.0-os",
-    "cordova-cookie-emperor": "OutSystems/cordova-cookie-emperor#1.0",
+    "cordova-plugin-cookieemperor": "OutSystems/cordova-cookie-emperor#1.0",
     "cordova-plugin-badge": "OutSystems/cordova-plugin-badge#0.8.8"
      },
   "repositories": [
