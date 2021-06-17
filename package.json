@@ -13,11 +13,11 @@
     "Cordova Plugin Aggregator"
   ],
   "dependencies": {
-    "cordova-plugin-inappbrowser": "https://github.com/OutSystems/cordova-plugin-inappbrowser/tree/653561274630c44242a6190f89c287c7e658cf68#3.0.0-os",
-    "cordova-plugin-app-launcher": "https://github.com/OutSystems/cordova-plugin-app-launcher/tree/e62e8ea8c7210e6377d65160be959bdf0928957a#0.4.0",
-    "outsystems-phonegap-plugin-push": "https://github.com/OutSystems/outsystems-phonegap-plugin-push/tree/8e31e794fab572595c23ee143fb3c9157d4fbb6e#2.2.0-os",
-    "cordova-cookie-emperor": "https://github.com/OutSystems/cordova-cookie-emperor/tree/c85f9ac8d47e0a34089202ab4e5d1acbd77ec2e0#1.0",
-    "cordova-plugin-badge": "https://github.com/OutSystems/cordova-plugin-badge/tree/85b1a9535659718b184060f28bc2b025a81e283c#0.8.8"
+    "OutSystems/cordova-plugin-inappbrowser": "3.0.0-os",
+    "OutSystems/cordova-plugin-app-launcher": "0.4.0",
+    "OutSystems/outsystems-phonegap-plugin-push": "2.2.0-os",
+    "OutSystems/cordova-cookie-emperor": "1.0",
+    "OutSystems/cordova-plugin-badge": "0.8.8"
      },
   "repositories": [
     {
