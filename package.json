@@ -14,10 +14,10 @@
   ],
   "dependencies": {
     "cordova-plugin-inappbrowser": "OutSystems/cordova-plugin-inappbrowser#3.0.0-os",
-    "OutSystems/cordova-plugin-app-launcher": "0.4.0",
-    "OutSystems/outsystems-phonegap-plugin-push": "2.2.0-os",
-    "OutSystems/cordova-cookie-emperor": "1.0",
-    "OutSystems/cordova-plugin-badge": "0.8.8"
+    "cordova-plugin-app-launcher": "OutSystems/cordova-plugin-app-launcher#0.4.0",
+    "outsystems-phonegap-plugin-push": "OutSystems/outsystems-phonegap-plugin-push#2.2.0-os",
+    "cordova-cookie-emperor": "OutSystems/cordova-cookie-emperor#1.0",
+    "cordova-plugin-badge": "OutSystems/cordova-plugin-badge#0.8.8"
      },
   "repositories": [
     {
