@@ -13,7 +13,7 @@
     "Cordova Plugin Aggregator"
   ],
   "dependencies": {
-    "cordova-plugin-inappbrowser": "OutSystems/cordova-plugin-inappbrowser#3.0.0-os",
+    "cordova-plugin-inappbrowser": "OutSystems/cordova-plugin-inappbrowser#4.0.0-OS5",
     "cordova-plugin-app-launcher": "OutSystems/cordova-plugin-app-launcher",
     "outsystems-phonegap-plugin-push": "OutSystems/outsystems-phonegap-plugin-push#2.2.0-os",
     "cordova-plugin-cookieemperor": "OutSystems/cordova-cookie-emperor#1.0",
